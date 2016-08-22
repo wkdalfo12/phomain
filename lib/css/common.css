@@ -1,0 +1,19 @@
+
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+*{margin:0;padding:0;
+
+  }
+    a{text-decoration: none;}
+  ul,li{list-style: none;}
+  img, fieldset {
+    border: none;
+    vertical-align: top;
+}
+body {
+    font-size: 12px;
+    font-family:'Nanum Gothic', dotum, µ¸¿ò, sans-serif;
+    color: #666;
+}
+#titleimg{
+	display:none;
+}     
